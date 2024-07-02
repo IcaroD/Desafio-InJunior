@@ -1,7 +1,3 @@
-/* 
-    No Console do Navegador
-*/
-
 var sum = 0
 
 for (var i = 0; i < 3; i++) {
@@ -12,8 +8,8 @@ for (var i = 0; i < 3; i++) {
 media = sum / 3
 
 if (media >= 6) {
-    console.log("Aprovado")
+    alert("Aprovado")
 }
 else {
-    console.log("Reprovado")
+    alert("Reprovado")
 }
