@@ -1,7 +1,3 @@
-/* 
-    No Console do Navegador
-*/
-
 const valores = []
 const original = []
 for (var i = 0; i < 5; i++) {
